@@ -1,0 +1,7 @@
+.app{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
